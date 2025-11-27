@@ -46,16 +46,15 @@ Des ateliers de découverte de la faune et de la flore aquatiques pourront être
 - Créer une zone humide pérenne favorisant la biodiversité locale.
 - Proposer un support d’observation et d’éducation pour les jeunes publics.
 - Organiser des ateliers nature autour de la mare.
-- Contribuer à la gestion durable de l’eau sur la parcelle.
 
 ### 4. Description du projet
 
-- **Localisation** : zone à préciser sur la micro-ferme.
+- **Localisation** : Nord-ouest
 - **Type de mare** :
-  - mare naturelle (creusée + bâche), ou
+  - mare naturelle (creusée + bâche EPDM), ou
   - mare semi-durable (structure béton écologique) si besoin.
 - **Dimensions estimées** : largeur ~X m, profondeur ~Y cm.
-- **Sécurité** : pente douce, clôture légère si nécessaire, signalétique pédagogique.
+- **Sécurité** : pente douce.
 - **Étapes** :
   1. Repérage et validation de la zone.
   2. Creusement.
@@ -68,8 +67,8 @@ Des ateliers de découverte de la faune et de la flore aquatiques pourront être
 
 - Février–mars : préparation du terrain.
 - Avril : creusement + structure.
-- Mai : mise en eau + plantations.
-- Juin : premiers ateliers familles / scolaires.
+- Mai : mise en eau et mise en place des masses filtrantes 
+- Juin : plantation 
 
 ### 6. Bénéficiaires
 
@@ -88,7 +87,7 @@ Des ateliers de découverte de la faune et de la flore aquatiques pourront être
 
 #### 7.2. Matériel
 
-- Outils de creusement (pelles, éventuellement minipelle).
+- Outils de creusement (pelles, pioches, barre à mine, louchet)
 - Géotextile / bâche EPDM.
 - Plantes aquatiques et de berge.
 - Roches, copeaux, paillage.
